@@ -1,6 +1,6 @@
 # Startpage
 
-[Live Preview](https://start.julianneadams.dev/)
+[Live Preview](https://leftysolara.github.io/startpage/)
 
 Feel free to fork and make your own changes!
 
